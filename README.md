@@ -5,7 +5,7 @@
 <p align="center"><i>"... your future is defined by what you do today, not tomorrow ..."</i></p>
 <img align='right' src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="230">
 
-Mi nombre es *Leonardo Yoel Lindo Caballero*, soy **Cubano** 🇨🇺, **Freelancer**, **Web Developer**... Soñador, amante del emprendimiento y la tecnología. Cuento con más de 4 años de experiencia en desarrollo Web... Y 3 años como administrador de redes...
+Mi nombre es *Leonardo Yoel Lindo Caballero*, soy **Cubano**, **Freelancer**, **Web Developer**... Soñador, amante del emprendimiento y la tecnología. Cuento con más de 4 años de experiencia en desarrollo Web... Y 3 años como administrador de redes...
 
 Actualmente estudio la Licenciatura en Ciencias de la Información, en Univerisdad Central de las Villas (UCLV).
 
